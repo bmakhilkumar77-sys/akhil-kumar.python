@@ -1,10 +1,14 @@
-NAME:
-BRANCH:
+NAME:B.M.AKHIL KUMAR
+
+BRANCH:CSM
+
 SECTION:1
+
 ROLL NO:26000868
 
 #TOPICS
-1. University Scholarship Allocation: 
+
+1. University Scholarship Allocation 
 2.Progressive Electricity Billing
 3.Hospital Billing and Patient Classification
 4.Employee Payroll and Deduction Analysis
